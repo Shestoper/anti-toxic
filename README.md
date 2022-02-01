@@ -2,7 +2,7 @@
 Ban people who play league on your discord server!
 
 # Usage
-First of you have to install discord.js:
+First off you have to install discord.js:
 ```npm i```
 Than make a [discord bot](https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/),
 After that start the bot via:
