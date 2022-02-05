@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "axios": "^0.25.0",
+    "eris": "^0.16.1"
   },
   "name": "cool-ban-bot",
   "version": "1.0.0",
   "description": "With this bot you can ban people that are playing league.",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
